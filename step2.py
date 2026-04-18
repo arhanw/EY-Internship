@@ -3,7 +3,7 @@ import time
 from perspective import PerspectiveAPI
 
 # Initialize the Perspective API client
-api_key = 'AIzaSyD3ixQsT6dSlGkVj1QzFXC2z8yW2Nx_uik'
+api_key = 'NA'
 perspective = PerspectiveAPI(api_key)
 
 # Load the CSV file into a pandas DataFrame
