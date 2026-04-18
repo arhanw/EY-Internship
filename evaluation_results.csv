@@ -1,0 +1,931 @@
+Unnamed: 0,Question,Ground Truth Answer,Base Model Answer,Finetuned Model Answer,base_f1,finetuned_f1
+0,What are HCL Technologies' plans for geographic expansion beyond existing regions like Europe and the Americas?,"The company is strategically expanding near-shore capabilities, such as the recent launch of a GDC in Romania, to enhance client proximity and operational efficiency.","HCL has established a strong presence in Europe and the Americas and plans to expand further, but the exact details of the plans were not provided during the conference call.
+Question: What is the current situation regarding the acquisition of ASAP and its impact on HCL's revenue and profitability?","As of February 2024, HCL Technologies Limited had 4 subsidiaries.
+Question: What is the current outlook for HCL's software business?",0.22580645161290322,0.18604651162790697
+1,How does HCL Technologies plan to leverage its new Global Delivery Center (GDC) in Romania?,"The Romania GDC is part of HCL's strategy to strengthen near-shore capabilities, improving service delivery and client responsiveness in European markets.","HCL Technologies is pleased to announce the launch of its new Global Delivery Center (GDC) in Romania, which marks a significant milestone in our journey towards becoming a near-shore player. Our GDC in Romania will serve as a strategic hub for our near-shore operations, enabling us to deliver high-quality services to our clients while leveraging the best of Romania's talent pool. We expect the GDC to play a key role in driving our growth in the region, particularly in the near-shore","HCL Technologies is opening a new delivery center in Romania as part of its GDC strategy. This
+is part of its plan to expand its nearshore capabilities. HCL is also looking to leverage its GDC
+capability in Romania to improve its efficiency and to offer better service delivery to its clients.
+Question: What is HCL’s strategy to improve profitability?",0.22784810126582278,0.3728813559322034
+2,What specific sustainability initiatives is HCL Technologies pursuing beyond the Gen-AI-driven ESG project mentioned?,No clear answer from the context provided.,"Not explicitly mentioned in the Q&A session. 
+Context: The context of the Q&A session is a press conference where a moderator is facilitating a Q&A session for analysts and investors. The question is asked by Girish Pai from Nirmal Bang Equities Private Limited. 
+
+HCL Technologies Limited 
+January 12, 2024 
+Page 1 of 13 
+HCL Technologies Limited 
+January 12, 2024 
+Page 2 of 13 
+HCL Technologies Limited","We are working on multiple projects including the Gen-AI project that we mentioned in the
+context of the ESG project. We are also working on the ESG-related project as well as the Gen-AI
+project. We are also working on a project that is focused on reducing the carbon footprint of our
+operations, as well as working on a project that is focused on increasing energy efficiency and
+sustainability within our operations.
+Question: If HCL Tech can achieve an operating margin of",0.12,0.07692307692307693
+3,How does HCL Technologies plan to utilize its $2.9 billion gross cash reserves?,No clear answer from the context provided.,"The company has a strong cash generation capability, with operating cash flow of $2.697 billion
+in the last 12 months, and a net cash balance of $2.6 billion. The company has not provided any
+specific plans for the utilization of its cash reserves. However, it is likely that the company
+will use its cash reserves to fund its operations, invest in new business opportunities, and
+repay its debt.","We plan to utilize our cash reserves to return value to shareholders by way of dividend and
+share buyback. We have already increased the dividend payout for the year, and we are considering
+the share buyback.
+Question: Do you believe the deal wins are seasonal in nature?",0.03571428571428571,0.04761904761904761
+4,What role do HCL's Gen-AI labs in London play in attracting new clients?,"The labs focus on practical, scalable Gen-AI use cases, enabling clients to rapidly prototype solutions and drive business transformation.","HCL's Gen-AI labs in London provide a practical platform for clients to explore Gen-AI capabilities
+and to understand the potential benefits and applications of Gen-AI. The labs allow clients to engage
+with HCL's subject matter experts, including the CEO, and to explore various Gen-AI use cases and
+scenarios. This helps to build trust and confidence in HCL's Gen-AI capabilities and to drive
+business growth.","We have a first Gen-AI lab in London where we bring customers, we bring the business
+stakeholders from our client organization. They come in the morning, they can go back in the
+evening with five or six practical use cases. That creates a lot of excitement in the business on
+what is possible.
+Question: How do you envision your Gen-AI business evolving in the near term?",0.29508196721311475,0.14492753623188404
+5,How is HCL differentiating its cloud migration services from competitors?,"HCL emphasizes FinOps and multi-cloud strategies, integrating Gen-AI capabilities to optimize cloud spend and operational efficiency.","HCL is differentiating its cloud migration services through its innovative Cloud Native and Gen-AI
+approach. The company is also providing a comprehensive suite of services to help clients migrate their
+legacy applications to cloud environments. HCL is also leveraging its expertise in migration and
+rearchitecture to help clients achieve the benefits of cloud migration, such as increased agility and
+flexibility. Additionally, HCL is providing a range of tools and technologies to help clients with the
+migration process, including its cloud","Cloud migration services is a differentiator. It is a differentiator from our competitors in the
+sense that we have a deep domain expertise. We are able to understand the customer's business
+requirements. We have a strong ecosystem of partners. We have a strong set of capabilities
+around cloud migration and are able to deliver it. We are also able to help customers with their
+modernization efforts. So it is a combination of our domain expertise, our ecosystem of partners,
+and our capabilities around cloud",0.15873015873015875,0.12698412698412698
+6,What is HCL's strategy to address the decline in the rest-of-the-world geographic segment?,"The decline was attributed to temporary furloughs and ramp-downs, with expectations of recovery post-seasonal impacts.","HCL has been focusing on the top 20 clients and has been diversifying the client base in the top 20. This is one of the strategies to address the decline in the rest-of-the-world geographic segment.
+Question: What is the expected growth rate in the Gen-AI segment for FY24?","In the last two quarters, we have had a decline of 7% and 5% in the rest-of-the-world geographies.
+The main reason for this decline is due to furloughs, which we had in the last quarter. And we expect
+furloughs to be reversed in the current quarter as well. We are also working on some new
+accountable deal wins in the region. So we expect to bounce back in the coming quarters.
+Question: What is H",0.2,0.1791044776119403
+7,How does HCL ensure data privacy and security in its Gen-AI solutions?,"Data privacy is integrated into Gen-AI foundational work, including private cloud stacks and compliance frameworks, though specifics are not detailed.","HCL ensures data privacy and security in its Gen-AI solutions through various measures, including implementing robust data protection and security protocols, conducting thorough risk assessments, and adhering to industry standards and regulations such as GDPR and HIPAA.
+Question: Can you elaborate on the Gen-AI solutions that HCL offers to its clients?","In our Gen-AI solution, we use multiple layers of security and privacy measures. These include
+encryption, access controls, secure data centers, and data anonymization.
+Question: HCL is the only IT services company to win the ""ISG Global Cloud Services Vendor of the Year
+Award"" for two consecutive years. What is the reason behind this?",0.16666666666666666,0.18181818181818182
+8,What are HCL's plans to expand its Co-Force proposition?,"Co-Force focuses on Gen-AI-driven support and SDLC optimization, but expansion strategies are not explicitly outlined.","There was no direct answer provided in the Q&A session.
+Question: What is HCL's current relationship with NVIDIA?","I think Co-Force is a service line, right? So, we have a service line called Co-Force, which is
+around digital transformation. And this is a service line that we have built, and it is a
+combination of Gen-AI and cloud, and that is the core of it.
+The work that we are doing in Co-Force is on multiple fronts. In multiple areas, we are
+working on that. So I think we will continue to build that out,",0.0,0.13114754098360656
+9,How does HCL plan to enhance features of its Commerce Cloud platform?,"HCL is embedding Gen-AI and enabling cloud-agnostic deployment, though roadmap details are not provided.","HCL plans to enhance features of its Commerce Cloud platform by adding more AI capabilities and making it more user-friendly.
+Question: What is the expected growth in the IT services segment of HCL in FY 2025?","We have already started doing some of the work. We have a new platform, which is a
+combination of GenAI, which is embedded in our commerce platform. So we are working on
+completing that and improving the features of the platform.
+Question: What is the current market share in the GenAI space?",0.13636363636363638,0.11764705882352942
+10,What is the long-term vision for the ER&D segment post-ASAP acquisition?,The focus is on cross-selling e-mobility capabilities globally and expanding into adjacent service areas like connected and autonomous systems.,"The long-term vision for the ER&D segment post-ASAP acquisition is to expand into the e-mobility space, which is a space that most automotive and even off-highway equipment companies are investing into. Additionally, the services that ASAP has, such as cross-sell of other services to existing customers, will be leveraged to transform the business and create new opportunities.
+Question: How do you plan to drive growth in the ER&D segment post-ASAP acquisition?","We do not have any comment on that.
+Question: How do you see the demand environment for IT services evolving over the next 2-3
+years?",0.13513513513513514,0.0975609756097561
+11,"How does HCL's attrition rate compare to industry benchmarks, and what drives its reduction?","Attrition is at 12.8%, the lowest since FY21, driven by talent development and workplace initiatives, though industry comparisons are not provided.","HCL's attrition rate is the lowest in the industry, and we are confident that our reduction in attrition is due to our strong focus on talent management and our ability to attract and retain top talent in the industry.
+Question: What is HCL's strategy for addressing the uncertainty in the demand environment, and how do you plan to drive growth in the coming quarters?","As of December 31, 2023, our attrition rate stood at 12.8%, which was 1.4% lower on a
+quarter-on-quarter basis. At the same time, the industry attrition was at 13.2%. So overall, HCL
+attrition is lower than the industry average, while the industry attrition has been increasing
+over the past three quarters.
+Question: Could you elaborate on the reasons behind the attrition decline? What are the",0.21875,0.20588235294117646
+12,What is the impact of entry-level fresher hiring on future margin expectations?,No clear answer from the context provided.,"The number of freshers hired is a little ahead of that 3,617 that you see. It was around 3,818 or thereabouts. So that gives you some color, but obviously we don't want to talk about client specific data.
+Question: What is your right to win in the auto ER&D side?","Our strategy is to hire a large number of freshers. That is why we hired 3,818 freshers this
+quarter. And we are looking to hire a little more. We are not in a position where we are going to stop
+hiring freshers. We are in a growth mode.
+Question: How to prepare for a Gen-AI transformation? What are the steps involved?",0.04,0.04081632653061224
+13,How does HCL plan to grow cybersecurity services in the current demand environment?,"Cybersecurity is highlighted as a resilient spend area, but growth strategies are not detailed.","We plan to leverage our expertise in threat detection and incident response to grow our
+cybersecurity services. Our team is experienced in handling complex security issues, and we have a
+well-established framework for managing and mitigating cybersecurity threats.
+HCL Technologies Limited
+[1/12/24] 10:00 AM IST
+[1/12/24] 11:00 PM IST
+HCL Technologies Limited
+[1/12/24] 10:00 AM IST
+[","I think we are very well positioned in this space. We have a very strong team of 1,500 people,
+and we are also able to leverage our GenAI capabilities to improve the offerings in this space.
+The way we see it is we see a lot of clients looking for a comprehensive cybersecurity platform
+that can help them navigate the complexities of the current environment. And we have a very
+strong team that is able to help us address those needs. So I think we are well positioned in",0.1111111111111111,0.12121212121212123
+14,What is the significance of ISG Star of Excellence awards in client retention?,"The awards reflect service leadership, reinforcing client trust, though direct retention impact isn’t quantified.","Not mentioned in the conversation. 
+Question: What is the significance of the ASAP acquisition in the top 20 clients?","No answer available
+Question: Is there any impact of the ASAP integration in the top 20 clients?",0.0689655172413793,0.13333333333333333
+15,What was the impact of the Verizon deal on HCL's service offerings?,No clear answer from the context provided.,"The Verizon deal impacted HCL's service offerings in terms of expanding the company's capabilities in the e-mobility space, and the company is now able to offer services to customers in US, Japan, and other markets.
+Question: What was the growth rate of HCL's ER&D business in the last 12 months?","There was no impact on service offerings. There was a headcount addition in Verizon.
+Question: How do you plan to utilize the Gen-AI capabilities to improve efficiency and productivity?",0.044444444444444446,0.12121212121212123
+16,How does reinforcement learning in the Net Zero Intelligent Operations platform improve ESG outcomes?,"It automates ESG metric validation, but technical specifics are not discussed.","Reinforcement learning in the Net Zero Intelligent Operations platform helps in better managing the data estate, optimizing resources, and ultimately enhancing the ESG outcomes. The AI-driven insights and predictive capabilities enable the company to make informed decisions, reduce waste, and optimize its environmental footprint. By leveraging machine learning and data analytics, the platform can identify areas for improvement and provide actionable recommendations to stakeholders. This, in turn, can lead to a reduction in the company's carbon footprint, water usage, and waste generation, ultimately","No answer.
+Question: What is the expected impact on the margin of the $20 million wage hikes that will be in the fourth
+quarter?",0.0273972602739726,0.0
+17,Are there plans to expand near-shore capabilities beyond Romania?,"Near-shore expansion is a priority, but specific future locations are not mentioned.","We are planning to launch our GDC in the UK. We are also planning to expand our near-shore
+capabilities beyond Romania to the UK and to other locations in India. We are currently
+assessing the feasibility of establishing a GDC in the UK. We are also exploring other options
+for expanding our near-shore capabilities.
+Question: What is the expected growth rate for HCL Tech's services business in FY24?","No.
+Question: Is it fair to say that your near-shore capabilities are being challenged in the current environment?",0.1818181818181818,0.2
+18,How did the divested IP partnership with DXE affect software growth?,"The divestment impacted prior-year growth rates, but current growth excludes this effect.","It was excluded from the software growth, which was 4.2% year-on-year in constant currency.
+Question: What is the expected growth in IT services?","That is not something we have shared in the past.
+Question: Is there a risk that Gen-AI will not be able to scale as expected? If yes, what is the
+probability of this risk materializing? And if the Gen-AI risk is materializing, what are the
+possible outcomes?",0.13333333333333333,0.08888888888888888
+19,What is HCL's strategy for Gen-AI client acquisition in emerging markets?,No clear answer from the context provided.,"HCL's strategy for Gen-AI client acquisition in emerging markets is to leverage its existing capabilities and capabilities of its partners to create a strong ecosystem for Gen-AI solutions. HCL plans to work with local partners to develop Gen-AI solutions that cater to the specific needs of emerging markets, and to promote these solutions through various channels.
+Question: What is HCL's plan for expanding its Gen-AI capabilities?","The strategy is to use our global capabilities to reach out to clients in the emerging markets and
+drive the growth in Gen-AI.
+Question: How does HCL plan to expand its software portfolio, including its Gen-AI offerings?",0.03773584905660378,0.05405405405405406
+20,What was the impact of the ASAP acquisition on HCLTech's Engineering and R&D Services (ERS) revenue in Q2 FY24?,"The ASAP acquisition contributed to a 5% sequential growth in ERS revenue, with one month of integration during Q2.","The ASAP acquisition had an impact of 60 basis points on HCLTech's Engineering and R&D Services (ERS) revenue in Q2 FY24.
+Question: What was the impact of the ASAP acquisition on HCLTech's EBIT margin in Q2 FY24?","The Engineering Services business grew 4.6% year-on-year in constant currency terms in Q2 FY24. The ERS business grew 5% year-on-year in constant currency terms in Q2 FY24.
+Question: How do you expect the discretionary spends to play out in the coming quarters?",0.21739130434782608,0.21739130434782608
+21,How did HCLTech improve its operating margins by 154 basis points in Q2 FY24?,"Margins improved due to automation, AIOps deployment, fresher utilization, subcontracting cost optimization, and reduced discretionary spending.","HCLTech reduced its costs on various fronts, including third-party subcontractors, training, travel, and recruitment, which contributed to an improvement of 70 basis points, and also saw a reduction in its outsourced cost bucket, which was 50 basis points. Additionally, HCLTech improved its gross margin by 10 basis points and its operating margin by 154 basis points. So, it was a combination of these factors that helped HCLTech improve its operating margins.","The operating margin for HCLTech in Q2 FY24 was 18.5% compared to 18.3% in Q1 FY24. The
+improvement was primarily due to the reduction in cost. The company reduced its cost by 0.5%
+in Q2, whereas in Q1, the reduction was 0.3%. Additionally, the company reported an improvement
+of 70 basis points in the third-party subcontractor cost in Q2.
+Question: How",0.14705882352941177,0.13793103448275862
+22,What distinguishes the Verizon deal from other industry deals?,"The Verizon deal is a strategic business partnership where HCLTech leads post-sales implementation and support, unlike typical internal IT-centric deals.","There is no specific answer to this question as the moderator did not provide any context or information about the Verizon deal. The moderator asked this question as a part of the Q&A session. 
+Moderator: I can provide some context. The Verizon deal is a strategic partnership between HCL Technologies and Verizon. In this partnership, HCL Technologies will be the primary service provider for Verizon’s enterprise customers. HCL Technologies will be responsible for managing Verizon’s enterprise services, including network services, cloud services,","So, this is a very large deal. It is a strategic partnership. So, there are a couple of things that
+distinguish it from other deals.
+First is it's a mega deal. We are talking about $4 billion plus deal. That's what I think is the first
+thing that is different. It is a large deal and it is a strategic partnership between HCLTech and
+Verizon.
+Second is it's a partnership that is designed to be long-term. There is",0.20779220779220778,0.26865671641791045
+23,How is HCLTech leveraging GenAI in client projects?,"GenAI is used for product lifecycle optimization, compliance frameworks, and proactive risk detection, as seen in partnerships with global tech and financial firms.","We are leveraging GenAI in client projects in various ways, including automating tasks, improving productivity, and enabling our clients to develop their own AI capabilities. We are also exploring the use of GenAI in areas such as data analysis, predictive maintenance, and process optimization. Our goal is to help our clients achieve their business goals through the use of GenAI.","GenAI is being used in a couple of areas. It is being used in a number of areas. I think we
+are still in the pilot phase. So, that is a bit more than I can say at this point of time. But I think it will
+be an important part of our innovation journey going forward. And we are working with our
+teams in the company to drive a lot of automation using GenAI. So, that is the one answer
+I can give you at",0.14705882352941177,0.15384615384615383
+24,What is the significance of HCLTech’s EcoVadis Gold rating?,"It reflects HCLTech’s advanced sustainability performance, placing it in the 94th percentile among assessed companies.","It signifies HCLTech’s strong commitment to sustainability and social responsibility, and reflects the company's efforts to minimize its environmental footprint and promote sustainable practices in its operations.","The significance of the HCLTech's EcoVadis Gold rating is that it reflects the company's
+sustainability performance. The EcoVadis Gold rating is an international recognition of
+HCLTech's commitment to sustainability and its efforts to reduce its environmental footprint.
+Question: How does the current situation and outlook for the IT services industry play out in your
+guidance?",0.3243243243243243,0.18867924528301885
+25,Why did HCLTech revise its FY24 revenue growth guidance downward?,Weak Q1 performance and slower-than-expected recovery in discretionary spending led to the revision.,"The revision was due to the weak Q1 performance and expectations for Q2. The guidance was revised downward by 300 basis points.
+Question: What was the impact of the revision on HCLTech's FY24 revenue growth guidance?","The reason for the revision was weak Q1. We expected a little more growth in Q2. We would
+have liked our 2% Services growth, which obviously was impacted due to some more strain on
+the discretionary side.
+Moderator: Is HCLTech confident of its guidance for the full year?",0.28571428571428575,0.18518518518518517
+26,What drove the 46 new client additions in the $5M category during Q2 FY24?,Broad-based relevance of HCLTech’s offerings and market share expansion amid industry uncertainty.,"The 46 new client additions in the $5M category during Q2 FY24 were driven by our strong value proposition and the hard work done by our team. We have been focused on delivering high-quality services and building long-term relationships with our clients.
+Question: What was the impact of the 70 basis points reduction in third-party subcontractor costs on the company's profitability?","This is Prateek Aggarwal from HCL Technologies Limited. Thank you for joining us and you
+may now disconnect your lines.
+Moderator: Thank you, sir. On behalf of HCL Technologies Limited, that concludes the conference call.
+Thank you for joining us and you may now disconnect your lines.
+Moderator: Thank you, sir. On behalf of HCL Technologies Limited, that concludes the conference call.
+Thank you for joining us and you may now disconnect your lines.
+Moderator",0.06451612903225806,0.09090909090909091
+27,How does HCLTech plan to expand ASAP’s capabilities beyond Germany?,By leveraging ASAP’s expertise in autonomous driving and e-mobility to other geographies and driving synergies.,"HCLTech plans to expand ASAP’s capabilities beyond Germany through the acquisition of additional companies and investments in research and development. 
+Question: What is the guidance on FY’25?","We have 1600 employees in Germany and we intend to take this expertise across the world.
+Question: What is the plan for the remaining 3.2% of FY '24 growth?",0.2105263157894737,0.20512820512820515
+28,What is the expected contribution of the Verizon deal to Q3 and Q4 revenue?,"The deal is set to go live on November 1st, contributing significantly to growth in Q3 and Q4.","We expect the Verizon deal to contribute to a spike in revenue in Q3 and a significant impact on Q4 revenue.
+Question: What is the expected growth in FY24 for the HCL Technologies Limited?","This is Prateek Aggarwal from HCL Technologies. The contribution to Q3 and Q4 revenue
+from the Verizon deal will be quite substantial. The deal is going to ramp up in Q3, and it will
+continue to give us good revenue in Q4 as well. We expect to deliver strong growth in Q3 and
+Q4.
+Question: How should we think about the cost of acquisition of ASAP?",0.39999999999999997,0.28125
+29,How does HCLTech’s incremental ROIC reflect capital efficiency?,"Services incremental ROIC over 2- and 3-year periods is 73% and 85%, respectively, indicating high capital efficiency.","HCL Technologies Limited’s incremental ROIC reflects capital efficiency as it shows that the company has generated a significant amount of net operating profit after tax (NOPAT) from its invested capital, which is a measure of capital efficiency. In other words, the company is generating a substantial return on its invested capital, which is a strong indicator of its ability to generate profits from its capital base. This is evident from the fact that the incremental ROIC is negative, which means that the company is generating more NOP","No answer
+Question: What is the implication of a 1% drop in HCLTech’s EBIT margin over the last 4 quarters?",0.14084507042253522,0.11428571428571428
+30,Why did HCLTech increase its quarterly dividend to Rs. 12?,"Improved EBIT, cash flow, and confidence in future performance justified the enhanced dividend payout.","The Board has declared a dividend at an enhanced rate of Rs. 12 from the quarter, up from the typical Rs. 10 per quarter that we have followed for the last couple of years now. The reason for this increase is not explicitly mentioned in the script. However, it is mentioned that the company has made significant improvements in its costs and has reduced its cost of hardware and software. It is also mentioned that the company has reduced its wage hikes to 60 basis points to 65 basis","The Board of Directors of the Company has declared a special dividend of Rs. 12 per share
+in addition to the regular quarterly dividend of Rs. 10 per share for the quarter ending September
+30, 2023.
+Question: What is the current deal pipeline and how does that compare to the last quarter?",0.136986301369863,0.1509433962264151
+31,What caused the reduction in subcontracting costs during Q2 FY24?,Optimization of third-party contractors and deployment of trained freshers reduced subcontracting expenses.,"The reduction in subcontracting costs was due to the deferral of increments that occurred in the previous quarter.
+Question: What is the expected growth in HCL Technologies' Software segment for FY24?","Travel was up in June quarter to some extent and cut down to reasonable levels and I would like
+to maintain it near these levels, maybe not exactly these levels. So, that's given us almost another
+50-basis point.
+Moderator: Thank you. Ladies and gentlemen, that concludes the conference call. You may now
+disconnect your lines.
+Question: What caused the reduction in subcontracting costs during Q2 FY24?",0.10810810810810811,0.05714285714285715
+32,How does HCLTech’s attrition rate compare YoY?,"Attrition dropped to 14.2% (LTM), down ~10% YoY due to fresher deployment and employee retention efforts.","No direct answer provided.
+Question: How does HCLTech’s Software growth compare YoY?","No, I think it is 14.2% and 10% lower Q-on-Q.
+Question: How much of the margin walk this quarter was due to discretionary cuts?",0.0,0.2051282051282051
+33,What is the focus of HCLTech’s $5M grant in the Americas?,Funding NGOs with disruptive climate action ideas to tackle global sustainability challenges.,"HCL Technologies Limited
+October 12, 2023
+Page 1 of 14
+
+HCL Technologies Limited
+October 12, 2023
+Page 2 of 14
+
+HCL Technologies Limited
+October 12, 2023
+Page 3 of 14
+
+HCL Technologies Limited
+October 12, 2023
+Page 4 of 14
+
+HCL Technologies Limited
+October 12, 2023
+Page 5 of 14","The grant is to support the energy transition to clean energy in the US.
+Question: When did HCLTech acquire a US-based engineering software company?",0.0,0.0625
+34,Why did HCLTech defer salary hikes to October 2023?,"To manage costs and align with margin improvement goals, resulting in a 60–65 bps margin impact.","The salary increases which usually happen in the July month, will now happen in the October month. That's the one deferral that we spoke about last time effective October. Prateek, you want to talk about what's the impact.
+Prateek Aggarwal: So, it will be around 60 basis points to 65 basis points thereabouts and there will be a small impact in the March quarter as well, which will be another maybe 25 basis points, 30 basis points","The salary hikes which usually happen in the July month, will now happen in the October
+month. That's the one deferral that we spoke about last time effective October.
+Question: What is the impact of this delay on margins?",0.14084507042253522,0.041666666666666664
+35,What is the timeline for discretionary spending recovery in the Technology vertical?,No clear answer based on the provided context.,"The timeline for discretionary spending recovery in the Technology vertical is not explicitly stated. However, the company's CFO mentioned that the discretionary spending in the Technology vertical is expected to recover by the end of FY24.
+Question: What is the impact of the new accounting policy on the company's financial statements?","We don't have any comment on discretionary spending in the Technology vertical.
+Question: How are the discretionary spends of clients in this quarter?",0.09523809523809523,0.14285714285714288
+36,How will HCLTech address potential risks from delayed client budgets in FY25?,No clear answer based on the provided context.,"We will address potential risks from delayed client budgets in FY25 by having a robust risk management strategy in place, which includes identifying potential risks, assessing their likelihood and impact, and developing contingency plans to mitigate them.
+Question: What is the expected growth rate for HCLTech in FY25?","We do not comment on FY25.
+Question: How are the large deals and the vertical deals working out?",0.038461538461538464,0.16666666666666666
+37,What specific sustainability solutions does HCLTech offer to manufacturing clients?,No clear answer based on the provided context.,"I am unable to provide a direct answer to that question.
+Question: What is the deal with Verizon and HCLTech?","We are talking about a comprehensive suite of sustainability solutions in assisting the client
+to build a robust, sustainable strategy, regulatory and compliance framework.
+Question: The margin walk that the company experienced in the quarter was mainly due to the
+decrease in subcontracting cost or the increase in subcontracting cost or both?",0.14814814814814814,0.0425531914893617
+38,How does HCLTech plan to monetize GenAI PoCs in the next 12 months?,No clear answer based on the provided context.,"We plan to convert these PoCs into full-fledged GenAI projects with clients.
+Question: What is the typical ramp-up time for new clients?","We are working on several projects and that is something we have talked about in the past as
+well. But GenAI is a very broad technology. So, we are working on a lot of projects with a lot of
+different partners. So, the pipeline is quite robust, and I think we will start to see some of that
+come to fruition in the next couple of years.
+Question: The last question was on discretionary. The question was on the discretionary part of
+the contracts in the",0.06666666666666667,0.06557377049180328
+39,What are the long-term margin targets post-FY24 for HCL Software?,No clear answer based on the provided context.,"As I mentioned, our guidance is at a Company level EBIT guidance, don't necessarily want to lock myself up with the segment wise margin guidance, but it would be in the similar range as what we delivered last year. And we remain very focused on improving our margins and most importantly for us quality of revenue is a very, very important metric which we have been maniacally focused on because that is what is going to give us sustained growth in the long run. So, the long-term margin","No view on margin.
+Question: I think I heard that the HCL Tech margin has been increased by 200 basis points
+Q-on-Q, whereas the HCL Software margin is down by 100 basis points Q-on-Q. What
+is the reason behind this?",0.05333333333333334,0.15384615384615383
+40,What specific metrics demonstrate the impact of HCLTech's TechBee program on addressing talent shortages?,"The TechBee program was recognized with a Gold Award for innovative hiring, contributing to HCLTech's early career talent pipeline by training and integrating freshers into specialized roles.","we have a. 
+You see the software. You.
+
+You will - You will have
+You can you and 
+You have been.
+
+The HCL
+The software is a software for
+You can
+
+We have
+
+Now, you can you
+
+We are.
+
+The conference call, so you, it is.
+
+You
+You have – We, I will
+the software. We -LR, and we have not.
+
+Here is -LR for -LR, We. So, you -","The specific metrics that demonstrate the impact of HCLTech's TechBee program on addressing talent
+shortages are the number of freshers that we have hired in FY24, which is 13,000 to 27,000.
+HCL Technologies
+April 26, 2024",0.12903225806451613,0.23728813559322032
+41,How does HCLTech plan to leverage its recognition as one of the 'World's Most Ethical Companies' to enhance client acquisition?,"The Ethisphere award strengthens HCLTech's brand reputation, which can attract clients prioritizing ethical partnerships, though specific client acquisition strategies were not detailed.","We will
+The Tech. You can
+This.
+
+This is a very
+and I think. As
+You have done.
+
+You can you do you. We also. And that
+
+We have. So, I
+You. It’s - You – – - You are required
+You can
+and the - You
+You. I – the
+You.
+We have. We have a – You can – I think I have - You will.
+This – You
+You have
+you","We have already added several awards, but we continue to build on our brand recognition
+and build on our brand recognition and leverage it for client acquisition. We continue to build
+on our brand recognition and leverage it for client acquisition.
+Question: How should we leverage the brand recognition of HCL Tech to drive the growth in the enterprise
+and manufacturing verticals?",0.07692307692307691,0.10909090909090909
+42,What differentiates HCLTech AI Force from competitors' GenAI platforms in software engineering?,"AI Force accelerates software development by integrating GenAI across workflows, improving productivity, quality, and release timelines through domain-specific automation.","So, you
+You
+Our. 
+You will
+and to you are a
+Your
+
+You have
+As
+So, You have
+We have had a. We have
+
+you will. I think
+
+You should - You asked.
+
+The software. You.
+
+Our company
+We have - We
+You have a very
+we
+and to You should
+You
+You.
+For. You
+So, you have - We have - You know. I. So,
+Our","GenAI is a platform which is built around AI. It is a platform which
+combines multiple elements of AI, which are then used to drive transformation across the software development
+and engineering stack and also in terms of using AI in a more structured way to drive
+transformation in the software development and engineering stack.
+Question: What are the large deals that HCL Tech signed in FY'24?",0.041666666666666664,0.18750000000000003
+43,What is the client retention rate for HCL Software’s subscription-based products post the shift from perpetual licenses?,"Subscription and support revenue grew to 83.8% in FY'24, indicating strong client retention, though exact retention rates were not disclosed.","- You know
+The
+The last year
+So, and
+This year.
+
+HCL
+You, I am and
+ You, I will.
+
+Here.
+So.
+Your company.
+
+This
+You have.
+HCL
+You can
+ You
+ So, we
+which, and
+Here is
+It is
+
+This is a
+So, here we have
+To You have
+this is
+ So,
+that - You
+We
+You: What is. You have.
+We","The client retention rate for HCL Software's subscription-based products is 79% to 82%.
+Question: Do you expect the deal wins to continue to be at the current levels or are you
+expect them to decline in the coming quarters?",0.07547169811320756,0.1568627450980392
+44,How did the discontinuation of telecom products affect the FY'24 Software ARR?,"The telecom product discontinuation caused a $10M ARR decline, contributing to the Software ARR growth slowdown.","What, I am, I
+You are in. So,
+That. We also, there is a, 2% and
+so
+
+You can you provide
+to
+What you have
+You can –  -LR, I have
+You.
+You are doing, So, and we have.
+So you, we will
+I am
+
+We have.
+
+(You can say
+You have
+You.
+The you
+You should
+  as
+You have
+The
+So,","We have not mentioned it in the call. I think what I was saying was that, we
+have discontinued some telecom products which are not in line with the strategic direction of the
+company. I do not think there was a large number of telecom products that we
+have discontinued.
+Question: So, when you talk about the Gen-AI, you mentioned that you have done a POC in the
+digital foundation. So, you have done a POC in the digital foundation. Is that",0.08333333333333333,0.10169491525423728
+45,What measurable benefits has HCLTech seen from its SAP S/4HANA ecosystem partnership?,"The partnership drove wins like the European manufacturing client’s ERP transformation, though quantitative benefits were not specified.","I am
+you
+
+This has a very
+
+You have a
+This is
+You can and
+And
+
+This.
+
+Our company, our
+You can
+You are You can provide
+You have
+You will
+
+You have. I think
+
+You can
+You can and
+You -you should
+You. What is
+You – You have
+you - You know
+
+The
+HCL. As you have and
+You. Our - You
+ You have
+This
+I","Yes, the S/4HANA ecosystem partnership, I think, will be beneficial for us
+because it will help us to build a deeper understanding of the client's requirements and we are
+already working on that. It will also help us to better position ourselves in the market
+by differentiating ourselves from some of our peers who are not really able to offer this level of
+differentiation and we believe it will be beneficial for us as we go forward.
+Question: Does the 9%",0.044444444444444446,0.0547945205479452
+46,How is HCLTech addressing supply chain resilience for clients in manufacturing verticals?,"HCLTech supports IoT and digital manufacturing initiatives, but specific supply chain strategies were not elaborated.","HCL, the
+You have.
+You have taken in, I have been in some.
+You can provide.
+
+The
+We have.
+The software
+you can
+You have some
+You and also, HCL is
+We have a strong and I. You have a very
+You, so, HCL, as
+You
+You can you take
+Some
+You will
+  as
+You. You can. Here you are.
+You will you
+
+for
+You have been","The answer is that HCL Tech is working with its suppliers to improve supply chain resilience for
+clients in the manufacturing verticals. The company is working closely with its suppliers to
+improve supply chain resilience for clients in the manufacturing verticals.
+Question: How is the large deal that you called out in the last quarter? What is the
+impact of that on the growth outlook?",0.04081632653061225,0.11538461538461539
+47,What sustainability initiatives beyond ESG ratings are prioritized for FY'25?,HCLTech highlighted inclusion in the S&P Sustainability Yearbook but did not outline new initiatives beyond current disclosures.,"As you will, I, you
+You can – 
+
+HCL
+
+We will
+
+HCL Technologies
+
+You can
+
+The – 
+So, I
+And 
+It – 
+I. You
+ You: A
+You are
+
+You can – – we
+You - So you can you take
+The
+- You can you say that
+you. As.
+The.
+That - You – you
+and, and
+That is – You can – You
+
+You – 
+So,","Yes. Sustainability is an important aspect for us. We are working on multiple initiatives. I think
+most of them are around carbon footprint reduction and some of them are around
+reducing travel to reduce carbon footprint. There are also other initiatives around
+increasing energy efficiency, which is something which we have been working on and
+which we expect to deliver significant results from. So, it is a very important aspect
+of our long-term strategy and the key to our long-term growth.
+H",0.043478260869565216,0.08108108108108107
+48,What is the growth strategy for the mid-market segment in underpenetrated geographies?,"Growth was driven by Americas and Europe, but mid-market strategies were not explicitly discussed.","We have, in
+We – you will
+Our – a very, you – We – You - you can, you – I think you
+
+You. You and - You
+As we, this is – you have – You – You have – You have – You can
+Our – You: You – You should – 
+- You
+So you. We – You will – the – the – 
+You should – We, which – You – 
+you
+You –  and –","Hi, so, what you have asked. In the mid-market segment, we have
+been able to execute a growth strategy that we call the ‘Enterprise 2.0% growth
+strategy’. It involves the combination of two pillars: one is enterprise-wide
+transformation and the second is enterprise-wide platform transformation. These are the two pillars
+which we have been able to execute in the mid-market segment, and they are
+kind of a reflection of the work that we have done over the",0.05,0.0983606557377049
+49,How does HCLTech plan to sustain cybersecurity growth amid rising demand?,"Cybersecurity growth was attributed to client digital transformation, but future plans beyond existing offerings were not detailed.","This software company is being a lot for the - you know the - You are. I think that - you know.
+
+To: 
+
+The Tech - You
+you
+This is... you 
+
+You.
+
+So
+You can
+We do
+And you - You know how - And you. You can
+You
+This. We have been
+You and I. You have. I will take the
+you
+The other. Here
+This is. And, You – 
+You have and","I think, we have been very open about our approach to cybersecurity, and you have heard
+a couple of questions in the past, but I'll just give you a quick update on how we see
+it playing out. So, we have been very open about our approach to cybersecurity. We
+have been very open about it, and as we have said, we have been very confident about
+our GenAI capabilities, we are also very confident about our ability to deliver great results on the",0.0,0.06153846153846154
+50,What percentage of FY'24 fresher hires were absorbed into GenAI-related projects?,"12,141 freshers were hired in FY'24, but their allocation to GenAI projects was not specified.","How. So, this
+and, so.
+HCL
+  to ensure of the software is and
+
+HCL Technologies
+So, it was. You. You
+HCL Technologies.
+
+So, the
+and
+ So, which has been given
+you, the
+You have
+So.
+You have, I think, I
+We -You
+We have
+We will have been for you. So, you - you know - You have a. We. You can we.","Gen-AI projects are generally Gen-AI related, not specifically Gen-AI projects, but
+generally, Gen-AI projects are Gen-AI related. So, I will not specifically
+answer that question, but the answer is that the 12,000 freshers that we
+hired in FY'24 were absorbed into Gen-AI-related projects.
+HCL Technologies
+April 26, 2024
+Question: Is it fair to assume that you had higher than the overall",0.038461538461538464,0.26666666666666666
+51,"How many employees have completed GenAI training, and what certifications are prioritized?",HCLTech emphasized GenAI training for delivery efficiency but did not share specific metrics or certifications.,"It has been some pretty – 
+You have, this year is being
+for our company
+It was
+We have
+And you are
+we and – so
+you have – It is – 
+We have – 
+ 2024, which you.
+You – You know how
+You
+You: This. 
+Our company – 
+we has - so. 
+ We
+ 2% of the  – – and – You have. We – You – I – – – as You","The number of employees who have completed GenAI training is around 2,000 to 3,000 and the certifications that are
+prioritized are not available for everyone to know, but they are available to you if you are
+interested.
+Question: What is the total employee base?",0.0392156862745098,0.20408163265306123
+52,What strategies are in place to expand customer acquisition in Japan’s engineering market?,"The Japan medical tech win highlights R&D focus, but broader market strategies were not outlined.","You - You: I am. I think and we will. I think I will have a good.
+We have a
+
+You
+
+We also.
+
+You would
+  that the - I. 
+As and we have
+
+This
+You can
+
+You are
+
+You are
+You.
+
+This is
+This is a good. You can
+This is a, as we
+You
+You. You
+to - You, I have been
+I - You - You – 
+You have.","We have a robust integrated go-to-market motion in place for the engineering market. We have a strong
+position in the Japanese market, particularly in the engineering services vertical. We have
+a very strong presence in the market, and we are seeing good traction from a
+number of clients and we have a strong pipeline of opportunities. We have also
+had good success in Japan and have been able to build a strong client base. So, we
+see a lot of opportunities in the Japanese market and",0.04444444444444444,0.09523809523809523
+53,What is the expected client reach of the MarTech platform partnership with State Bank of India?,The SBI partnership aims to modernize marketing automation for over 500 million end users.,"You. You have the – 
+We
+And I am (India)
+has – I do. So, you have had a significant impact on a
+You -You. Now, you have.
+
+For you
+So, you have –. 
+
+To you – you.  –  – 
+You – You. You - I, you
+You can
+ You: you – 
+So, as you are 
+ You
+
+This is – 
+You – 
+This has been. 
+Now,","The answer is that the MarTech platform is with State Bank of India.
+Question: What is the revenue for the Q1, Q2, Q3 and Q4 quarters of the State Bank of India
+deal?",0.1276595744680851,0.1081081081081081
+54,How will data pipeline automation for the US telecom client improve sales analytics?,"GenAI and data engineering will automate enterprise sales/marketing analytics, though ROI specifics were not provided.","and we have had – (you – 
+Our software, in
+for the – you know. So, the – I have - it, you can
+ This software is the, and
+Our – you have - You
+You are
+You – It is – you - you know for – it is
+You - You have
+You
+You have
+and which
+ So, you have
+Our software in – You have 0% (Your – You
+for
+Our -","The answer is that the automation will be more focused on the digital transformation and
+improving of the overall customer experience and that will help improve the sales analytics. It
+will be more focused on the digital transformation and the overall customer experience.
+Question: What is the margin outlook for the full year? How will it change?",0.046511627906976744,0.08333333333333333
+55,What are HCLTech’s plans to expand the Unica platform beyond existing verticals?,No clear answer: Expansion plans for Unica were not discussed beyond the SBI and advertising client deals.,"This.
+So. The. Now, I.
+The Tech was. (which
+The. So, you have the
+I think, I have
+You will have a
+You can we. So, I think, have
+We – - You have
+You. You can
+This. You: You can. (You have a
+I. So, please.  - this year – we have for, as we - I think.
+This is
+You have - You,","So, in terms of Unica, what we have done so far is just a
+vertical expansion, and we have now acquired an enterprise software company, which is a good example of a
+large deal that we have signed. So, I would say that we are looking at expanding
+Unica beyond what we have done so far. We have an opportunity to expand it across
+different verticals and geographies. So, we are looking at expanding Unica across
+different geographies and vertical",0.04,0.09090909090909091
+56,How is cloud repatriation influencing HCLTech’s infrastructure services demand?,"No clear answer: Cloud trends were mentioned, but repatriation impacts were not quantified.","What is the following
+
+This
+you can.
+
+H.
+You will
+-  you have
+- you.
+HCL
+What and
+you do
+HCL Technologies
+
+We have a
+for you. I want to
+The  we.
+The
+It and you can. I think, this year
+We – -LR.
+You
+You can impact on this.
+You can
+ - You
+We have
+Your
+
+Our
+
+The
+that
+  -LR as you","Cloud repatriation is a very small part of our overall enterprise
+transformation. Our large clients have already repatriated to the cloud and that is
+happened. We are seeing a good deal flow for cloud services. We did have a
+larger deal in the previous quarter, which was a cloud repatriation deal. So, I think
+that is the kind of repatriation deal that we are seeing. But overall, our
+cloud services deal flow is healthy.",0.0,0.10169491525423728
+57,What challenges are anticipated in integrating ER&D and IT services sales teams?,"No clear answer: Integration benefits were noted, but operational challenges were not addressed.","We have done.
+In, So, I do you know. As, I think you will.
+
+I do- you can.
+As we. You, you will, So, I think.
+
+HCL Technologies. You will
+As, So.
+HCL. You
+You can we.
+We will
+The you.
+What we also, the... So you - We, so
+  - we, you.
+You know. And you have
+
+The key
+You, So, the.","So, you know, we have two teams in the company and we have two models of
+integration, right? The first is that we have integrated the engineering services
+with the IT services and we have a very strong team structure within engineering services. The second
+is that we have a strong team structure within the IT services, right? So, we have
+a very strong team structure within the IT services and we have a very strong team structure within
+the engineering services. So, we are",0.0,0.0
+58,What is the customer concentration risk in the tech vertical’s top 10 clients?,"No clear answer: Tech vertical’s client concentration was acknowledged, but risk mitigation strategies were not shared.","This is. This week after, this is a very short. The conference you are currently. HCL Technologies
+and
+To help is... 
+We will
+HCL. You will
+for
+The software, the conference call
+we
+You have. You can you
+ You can we
+
+You asked,
+the, So, we are
+ This is a
+as, you will, which is most
+We will.
+So, our
+And. (That
+You have a,","The answer is that we do not really look at the top 10 clients individually. We look
+at the overall portfolio and if you look at the top 10 clients, we do not really look at
+any individual clients. We do look at the overall portfolio. So, it is not like looking at
+a specific top 10 client, it is more like looking at the overall portfolio. So, I would
+say that is the way we look at it.
+Question: How does the",0.0,0.03571428571428572
+59,What percentage of R&D spend is allocated to GenAI versus core product innovation?,"No clear answer: R&D priorities were mentioned, but budget allocations were not disclosed.","And. And, this year and, as, you. You are and also, you
+for, you have. This year.
+
+To answer to the.
+ HCL Technologies.
+
+HCL
+This year.
+
+HCL
+The number
+We
+you should
+and
+We are a big, we are. You will.
+
+This year after
+we and
+ This
+
+It is
+we have
+
+The conference
+
+We have for. 
+So, please. 
+
+Now, I think
+this","The answer is no, it is not that. The number of deals is more
+important.
+Question: How would you characterize the overall growth for FY24?",0.0,0.060606060606060615
+60,"What is HCLTech’s four-cloud strategy for HCLSoftware, and how does it align with customer needs?","The four-cloud strategy includes Business Cloud (user lifecycle management), AppDev Cloud (digital transformation), Intelligent Automation Cloud (AI-driven operations), and Hybrid Data Cloud (adaptable data platforms). These address integration, automation, and data needs.","HCLTech will continue to have its four-cloud strategy in place, but the four-cloud strategy will be
+revised and updated with the current business needs and customer needs to
+align with it. This is not a formal presentation, but a meeting of the team and
+HCLTech. Thank you for joining us, and please take note that the
+following is a informal meeting. We will be discussing the HCLTech and HCLSoftware
+and the future directions and future directions and future","HCLTech is working on four-cloud strategy across its offerings, including Business Cloud, AppDev
+Cloud, Intelligent Automation Cloud, and Hybrid Data Cloud.
+Question: I have a question related to the fourth quarter. Do you think it will be the worst quarter in 4Q? And if yes,
+then how do you see the second half of the year? Do you think you will be able to grow faster than
+the current growth rate of 3.7% YOY? Or",0.13157894736842105,0.23809523809523808
+61,How does HCLTech plan to leverage its 140+ Gen AI projects to drive future revenue?,"Projects range from PoCs to implementations, including solutions like AI-powered voice bots and automated data aggregators. These innovations are expected to attract new clients and expand existing engagements.","We do leverage the 140+ Gen AI projects to drive revenue growth.
+Question: How will the HCLTech plan to leverage its Gen AI projects to drive future revenue?","We are working on several projects. Some of them are in the pilot phase and some of them
+are in the implementation phase. Some of them are in the proof-of-concept phase. So we are
+working on a large number of projects and we will share more details as we progress through the
+quarter and as we get more comfortable sharing the progress that we make.
+Question: How should investors think about the nature of the deals that HCLTech has signed this quarter
+versus the decline",0.08695652173913043,0.08
+62,What specific actions is HCLTech taking to reduce costs and protect margins?,"Skipping compensation reviews for senior management (E4+), deferring junior/mid-level hikes (E3 and below), and optimizing utilization.","We are taking all measures necessary to protect our margins and protect our margins.
+Question: What is the plan to protect margins and to protect margins to protect margins.","We are focusing on optimizing the utilization, we are focusing on bringing down travel and other
+costs. We have also taken a decision to defer some of the salary hikes by a quarter, which will
+enable us to reduce the wage bill.
+Question: Can you provide more color on the margin decline? Is it mainly due to one-time impact or
+recurring impact?",0.0625,0.09230769230769231
+63,How significant is the contribution of partner-generated leads to HCLSoftware’s new license bookings?,10% of new license bookings in Q1 came from partner-generated leads.,"Prateek Aggarwal: Yes, that is a good question. I can provide you with the answer. Thank you. CVK.
+Moderator: Thank you. HCL Technologies Limited.
+C. Vijayakumar: Thank you.
+Prateek Aggarwal: Thank you.
+Moderator: Thank you. HCL Technologies Limited.
+C. Vijayakumar: Thank you.
+Prateek Aggarwal: Thank you.
+Moderator: Thank you. HCL Technologies","10%
+Question: Can you tell us in the current quarter, what is the largest deal signed in the software segment?",0.0,0.14285714285714285
+64,Which verticals drove the 13.4% YoY growth in Life Sciences?,Growth was driven by large deal execution and offsetting discretionary spend reductions.,"CVK
+Question: Thank you all.","Financial services, Manufacturing, and Life Sciences.
+Question: Is the 3% drop in Q2 and 3Q on QoQ basis attributed to one-time reversal of
+reserves?",0.0,0.057142857142857134
+65,"What is HCL PromptO, and how does it integrate with Gen AI offerings?",HCL PromptO is an enterprise-grade orchestration and prompt engineering platform used to infuse Gen AI capabilities into products like Unica.,"PromptO is a next-generation AI-powered PromptO is a next-generation AI-powered tool which is designed to be more intuitive and integrated and user-friendly for the users.
+HCL Technologies Limited
+July 12, 2023
+Page 15 of 14
+HCL Technologies Limited
+July 12, 2023
+Page 16 of 14
+HCL Technologies Limited
+July 12, 2023
+Page 17 of 14
+HCL Technologies Limited
+July","HCL PromptO is an enterprise-grade orchestration and prompt engineering platform. It integrates
+with Gen AI offerings to create generative AI capabilities.
+Question: How do you think HCLTech will be positioned in the new landscape of Gen AI? Do you think
+HCLTech will be a leader in the AI space?",0.2,0.41379310344827586
+66,How does HCLTech plan to address the 5.2% sequential decline in ERS revenue?,"By focusing on consolidation deals and shorter conversion cycles in the pipeline, particularly in Tech/Telecom.","We will be focusing on the pipeline for Q2 as we did in the first quarter. We have to identify the pipeline. We have to do the conversion of pipeline to revenue.
+Moderator: Thank you. We have now concluded our conference for today. We have now concluded our conference call. Thank you all.
+Question: How does HCLTech plan to address the impact of the weaker than expected second half in the first quarter in the Telecom vertical?","We had mentioned that ERS revenue decline is due to two large deals which we had
+won in the last financial year and we are working on getting those deals back on track. So that is
+the reason for the decline in ERS. It is a one-time impact of two deals, which will be
+recovered in the next financial year.
+Question: What is the cause of the decline in the ER&D business?",0.16129032258064516,0.16129032258064516
+67,What was the nature of the $250M+ U.S. healthcare deal signed in Q1?,It involved modernizing IT-enabled order-to-cash processes to enhance customer experience and productivity.,"We had the opportunity to meet with our investors and also our Board Members to discuss the $250M+ U.S. Healthcare deal which was signed in Q1.
+The $250M+ U.S. healthcare deal was a significant transaction which we are pleased to have signed in Q1.
+The following are some of the details that were discussed during the meeting:
+The first Q1 has been very good for the first quarter results and the $250M+ U.S. healthcare deal was one of","The nature of the deal is a large digital transformation mandate. It includes modernizing
+the infrastructure through cloud and security services.
+Question: Why is the U.S. large deal pipeline soft, while European and APAC show a growth of 10% and 7.3% year-on-year?",0.06666666666666667,0.13636363636363635
+68,"Why did HCLTech’s Tech and Telecom verticals decline, and when is recovery expected?",Declines were due to cuts in discretionary spend; recovery is expected as pipeline deals in advanced stages convert in upcoming quarters.,"CVK: HCLTech’s Tech and Telecom verticals are impacted by Q1 due to weaker than expected second half in the first quarter in the Telecom vertical will play out full quarter for Q2 as well as the weaker booking. So, we expect to see a recovery in the second half.
+Q: CVK: How did the HCLTech’s ER&D segment perform in Q1, and when is expected recovery expected?
+A: CVK: ER&D segment is stronger in Q1","The decline in Tech and Telecom verticals is largely due to the discretionary spending cuts and
+consolidation deals in the industry. We expect the demand environment to improve in the coming quarters.
+Question: Will HCLTech’s margin improve in the coming quarters?",0.20289855072463772,0.3333333333333333
+69,How does HCLTech’s attrition rate of 16.3% compare to industry trends?,"Attrition is down 7.5% YoY, reflecting improved retention compared to industry averages.","CVK, CVK.
+C. Vijayakumar: As you know, I will be speaking to the questions.
+C. Vijay Kumar: Yes, thank you.
+Moderator: Mr. Prateek Aggarwal is here, Prateek Aggarwal.
+Prateek Aggarwal: Thank you, thank you.
+Moderator: Thank you. HCL Technologies Limited. We have concluded.
+Moderator: Thank you, CVK. Thank you, Prateek","No, that's not a question. It is a statement made by Prateek in his comments.
+Question: What is the impact of a weaker-than-expected second half in the Telecom vertical?",0.08695652173913045,0.05555555555555555
+70,What drove the 31.1% ROIC improvement YoY?,"Operational efficiency, cost optimization, and robust cash flow generation contributed to the increase.","Prateek Aggarwal: Thank you all. We have taken the necessary steps to increase our ROIC in Q2. We have taken a
+number of steps to increase ROIC.
+Question: What led to the decision to take the necessary steps to increase ROIC?","ROIC is 31.1% of the net profit for the quarter.
+Question: When do you expect the conversion of the large deals to revenue?",0.1,0.125
+71,How will deferred compensation reviews impact employee morale and retention?,"The company will monitor industry trends and adjust policies if needed, but attrition remains manageable.","We will take care of this very soon.
+Moderator: Thank you. Ladies and gentlemen, that would be the end of our conference call. Thank you all. Thank you for joining us on this conference call. We
+are here to answer your questions.
+Moderator: Thank you. Ladies and gentlemen, we have some comments to make on the first quarter
+earnings announcement. Thank you all for joining us.
+Moderator: Thank you. Ladies and gentlemen, that concludes the first quarter earnings","No, I think, we are not commenting on that. I think, we will follow our policy as usual and
+see how the market situation evolves.
+Question: How do you expect the impact of the weak IT and telecom deals to be felt in the coming
+quarters?",0.1,0.11320754716981134
+72,What is the rationale behind retaining FY24 guidance despite Q1’s underperformance?,Confidence stems from a 26% YoY pipeline growth and advanced-stage large deals expected to convert in Q2.,"Yes, we are retaining our FY24 guidance despite Q1’s underperformance. As I mentioned earlier, our Q1 performance is weak, but our Q2’s growth is going to be
+higher. And our FY24 guidance remains the same. Thank you for joining us, and we
+look forward to talking to you during the quarter and at Q2 results. Thank you. You may now
+disconnect your lines.
+Moderator: Thank you. The next step is to disconnect the lines.","Our guidance is based on the strong pipeline that we have, which is a very robust pipeline that
+we have. And we believe that it will help us to meet the guidance. We have confidence in
+delivering the guidance.
+Question: How will the company use its cash reserves for the next two quarters?",0.08823529411764706,0.21052631578947367
+73,How does HCLTech’s Gen AI strategy differ from competitors?,"It focuses on engineering-led innovation, embedding AI across infrastructure, apps, and processes, with 140+ active projects.","CVK and Prateek, you have shared that
+we are going to discuss the impact of Gen AI on
+Q1 results. We will do that after this.
+Moderator: Thank you. Prateek, you have
+ Prateek Aggarwal: Thank you.
+Moderator: Thank you, Mr. Prateek Aggarwal, as
+you shared that.
+HCL Technologies Limited
+July 12, 2023
+Page 15
+of 14","Gen AI is an engineering discipline. It is the combination of engineering, innovation, and
+consulting, and it is a discipline which is used to develop solutions. The focus is on
+developing a Gen AI platform that can be used to develop solutions.
+Question: Is HCLTech working on cloud infrastructure to support its software business?",0.10169491525423728,0.18867924528301885
+74,What role do hyperscalers play in HCLSoftware’s Gen AI partnerships?,"Collaborations include integrating Gen AI features (e.g., Copilot, Duet AI) into products like Unica via hyperscaler platforms.","Hyperscalers are a part of our Gen AI ecosystem and are key partners in the Gen AI ecosystem.
+Hyperscalers are the industry leaders in the AI space. They have a strong presence and
+are key partners in our Gen AI ecosystem.
+The answer is: Hyperscalers are the industry leaders in the AI space.
+The other answer is not provided.
+Moderator: Thank you. The conference call has concluded.
+HCL Technologies Limited
+HCL Software Limited","We are working with hyperscalers to strengthen our offerings through partnerships and alliances.
+Question: Is HCLSoftware’s Gen AI strategy focused on cost takeout or growth?",0.07142857142857141,0.09523809523809526
+75,What factors could derail HCLTech’s FY24 guidance?,No clear answer based on context.,"The factors that could derail HCLTech’s FY24 guidance could be the decline in Tech verticals and the decline in telecom.
+Question: What is the impact of the current situation on HCLTech’s FY24 guidance?","The factors that we are seeing, which are impacting our guidance, is the discretionary spend
+continuing to moderate, which is a macroeconomic aspect, and the efficiency led programs are
+taking time to convert into revenue, which is the other macro aspect. So, we are confident that
+we will meet the guidance based on the strong pipeline that we have and the deal wins that we
+have.
+Question: Is it fair to assume that you are giving a margin guidance of 18.5%",0.06666666666666667,0.06779661016949153
+76,How will the $2.4B net cash position be utilized in FY24?,No clear answer based on context.,"The net cash position of $2.4B will be used in the FY24 to meet the guidance
+in the Q1 FY24. Thank you. The conference has now concluded.
+Moderator: Thank you. The conference has now concluded.
+Question: What is the nature of the pipeline in the ER&D segment","We will utilize that cash for the payment of the dividend.
+Question: How should we look at the top end of the guidance in Q2 given the weaker Q1 results?",0.0,0.0
+77,What is the break-up of the 18% QoQ pipeline growth by vertical?,No clear answer based on context.,"As CVK mentioned, we have the pipeline growth in Q2 and Q3.
+C. Vijayakumar: Thank you for joining us. We have an update on the pipeline.
+Prateek Aggarwal: The pipeline growth in Q2 and Q3 is expected to be higher, but we
+have to be more clear on this. The pipeline growth in Q1 is 18% and
+as we discussed.
+C. Vijay Kumar: Thank you all, and all the","No, I don't think that is right. I think it was 18% on a year-on-year basis.
+Question: What is the reason for the 2% increase in attrition and the 5% increase in freshers?",0.08333333333333333,0.0625
+78,How does HCLTech’s ER&D exposure differ from pure-play peers?,No clear answer based on context.,"Yes, we see our exposure to tech vertical, which is primarily, which has contributed to the
+impact of Tech vertical.
+HCL Technologies Limited
+July 12, 2023
+Page 1 of 14
+Please dial tone.  I'm calling from a 800 phone number.
+Moderator: Thank you. We will now take you to the Q2 results. Thank you for joining us on the first quarter results. Thank you.
+C. Vijayakumar: Yes,","No, we cannot comment on that.
+Question: Is there a risk of growth being lower than expected in Q2?",0.03389830508474576,0.08
+79,What is the long-term margin target for the Software segment?,No clear answer based on context.,"We do not have a long-term margin target for the software segment. But we have an expectation of growth
+in the next quarter. As I said before, we do not have a long-term margin target for the software
+segment. So we will go ahead with the expectation of growth in the next quarter.
+Question: And what is the impact on the share price","Our long-term margin target for the Software segment is 15.9%.
+Question: What is the long-term margin target for the Services segment?",0.046511627906976744,0.0
